@@ -6,6 +6,7 @@ This project involves the use of Watson Analytics to analyze two datasets: an em
 The two datasets used in this project are identical to those used in my EDA and decision tree projects using Watson Analytics.  Thus, I recommend viewing those projects to understand the visualizations I am using in this project.  Links to these two projects are provided below:
 
 https://github.com/DaanishAhmed/Watson-Analytics-Exploratory-Analysis
+
 https://github.com/DaanishAhmed/Watson-Analytics-Decision-Trees
 
 The full report can be found in the file "Display Development.pdf".  This report shows a complete breakdown of my analysis, including problem identification, motivation, data exploration, dashboard development, results, social media analysis, storybook development, and applications.  Tables and visualizations are included in the appendix.
